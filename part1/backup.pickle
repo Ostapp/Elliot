@@ -1,0 +1,936 @@
+(dp0
+S'cities_filename'
+p1
+S'new_cities.xlsx'
+p2
+sS'last_start_url_index'
+p3
+I5
+sS'links'
+p4
+(dp5
+VUnivers Pharmacie- Pharmacie Gely KST Affilié
+p6
+S'www.pharmacieduknal.com'
+p7
+sVPharmacie De Place D'armes
+p8
+S'www.pharmacie-rondpoint.com'
+p9
+sVSelas Pharmacie De Montabo
+p10
+S'no link to website available'
+p11
+sVPharmacie Mathieu
+p12
+S'no link to website available'
+p13
+sVDalli Sylviane
+p14
+S'www.pharmacie-lerobert.com'
+p15
+sVHelmany-Nuissier Marlène
+p16
+S'PHARMACIEMIQUEL.COM'
+p17
+sVSun Pharmacie
+p18
+g11
+sVPharmacie Maureaux-Lamotte
+p19
+g11
+sVPharmacie De Kermadec
+p20
+g11
+sVPharmacie Anne Cadoré
+p21
+S''
+p22
+sVPharmacie Des Awaras
+p23
+g11
+sVPharmacie De Saint Louis
+p24
+g11
+sVPharmacie Médicis
+p25
+g11
+sVPharmacie D.Binet-Zozor
+p26
+g13
+sVPharmacie Des Vignes
+p27
+g13
+sVLes Camelias
+p28
+g11
+sVPharmacie Cypria
+p29
+S'www.phrantilles.com'
+p30
+sVPharmacie Placide
+p31
+g11
+sVPharmacie De La Cité
+p32
+g11
+sVPharmacie des Yoles
+p33
+g13
+sVPharmacie Arago
+p34
+g11
+sVPharmacie De La Boucan
+p35
+g11
+sVPharmacie Des Orchidées
+p36
+g11
+sVPharmacie Helios
+p37
+g11
+sVPharmacie Leclaire
+p38
+g11
+sVSPA
+p39
+g11
+sVChevry-Nol Maggy
+p40
+g11
+sVPharmacie De Saint Laurent
+p41
+g11
+sVPharmacie de Baduel
+p42
+g11
+sVPharmacie du Rond Point
+p43
+S'www.pharmacie-saint-joseph.com'
+p44
+sVPharmacie Labarthe-goissen-unger
+p45
+g13
+sVPharmacie De Houeilles
+p46
+S'www.pharmacie-damazan.com'
+p47
+sVPharmacie De L'Eglise
+p48
+S'www.pharmacie-cypria.fr'
+p49
+sVPharmacie Déris
+p50
+S'www.pharmacie-fort-de-france.net'
+p51
+sVPharmacie Du Marigot
+p52
+g13
+sVPharmescillia
+p53
+g11
+sVPharmacie Jessie Lucien
+p54
+g13
+sVNouvelle Pharmacie de Bellevue
+p55
+S'http://www.pharmacie-marie-joseph.fr'
+p56
+sVPharmacie Fonrose Marie-Louise
+p57
+g13
+sVPharmacie Voltaire (Selarl)
+p58
+g11
+sVDelblond Roseline
+p59
+g13
+sVPharmacie Ste Anne
+p60
+S'www.pharmacielamentin.fr'
+p61
+sVPharmacie Concorde
+p62
+g11
+sVPharmacie De Passamainty
+p63
+g11
+sVPharmacie Mahoraise
+p64
+g11
+sVPharmacie Lydia Marcin
+p65
+g11
+sVPharmacie Tabar-Nouval
+p66
+g11
+sVPharmacie Lucéenne
+p67
+g13
+sVPharmacie Pont
+p68
+g11
+sVPharmacie du Patio
+p69
+S'http://www.pharmacie-marie-joseph.fr'
+p70
+sVVitapharma
+p71
+g13
+sVPharmacie Caraïbes
+p72
+g11
+sVUrgin-Bart
+p73
+g11
+sVPharmacie Vatran
+p74
+S'www.pharmacieantonio.pharminfo.fr'
+p75
+sVPharmacie Grand Baie
+p76
+g11
+sVPharmacie Belle Etoile
+p77
+g13
+sVPharmacie Tremouilhe
+p78
+g13
+sVPharmacie Du Souimanga
+p79
+g11
+sVPharmacie Delblond Roseline
+p80
+g13
+sVPharmacie Des Ilots
+p81
+S'no link to website available'
+p82
+sVPharmacie Trianon
+p83
+g13
+sVPharmacie De Grand Case
+p84
+g11
+sVPharmacie Jos Arnaud
+p85
+S'www.pharmacie-lerobert.com'
+p86
+sVPharmacie Mona Lisa 1
+p87
+g11
+sVPharmacie du C.M.B
+p88
+S'http://www.pharmacie-belcourt-guadeloupe.fr'
+p89
+sVPharmacie Grand Camp
+p90
+g11
+sVPharmacie du Marché
+p91
+g13
+sVSelas Pharmacie Baie Side
+p92
+g11
+sVPharmacie Du Lagon
+p93
+g11
+sVPharmacie de la Plage
+p94
+S'www.pharmacie-le-marin.net'
+p95
+sVCapet Maguy
+p96
+g11
+sVTocny Alexandre
+p97
+g11
+sVPharmacie des Alizées
+p98
+g13
+sVPharmacie Anne Laventure
+p99
+g22
+sVPetit-Michel Solange
+p100
+g11
+sVPharmacie Sene Francine
+p101
+g11
+sVPharmacie Raso Gladys
+p102
+S'http://www.pharmacie-marie-joseph.fr'
+p103
+sVPharmacie du Lac
+p104
+S'www.pharmaciecayenne.pharminfo.fr'
+p105
+sVPharmacie Elana
+p106
+g13
+sVOscom
+p107
+g11
+sVPharmacie Des Hibiscus
+p108
+g11
+sVPharm'Alizés
+p109
+g11
+sVPHARMACIE MAUCLERE
+p110
+S'www.pharmacie-lerobert.com'
+p111
+sVPharmacie Caruel Werter
+p112
+g11
+sVPharmacie Marie Joseph
+p113
+g13
+sVSainte Rose Médica
+p114
+g11
+sVPharmacie Du Front De Mer
+p115
+g11
+sVPharmacie Les Coraux
+p116
+S'www.pharmacie-fort-de-france.info'
+p117
+sVPharmacie Pauillac-Man Lam Fouck
+p118
+g11
+sVPharmacie Médicale Clairière
+p119
+g13
+sVPharmacie Caraïbes De Montaigne-Modeste Micheline
+p120
+g13
+sVPharmacie Des Iles
+p121
+S'www.pharmacie-arlesienne.com'
+p122
+sVPharmacie De La Pointe
+p123
+g11
+sVPharmacie Mongin
+p124
+S'www.pharmacie-le-marin.net'
+p125
+sVPharmacie Doris Bunel
+p126
+S'www.resopharma.fr'
+p127
+sVPharmacie De Petit Bourg
+p128
+S'pharmacie-ducos.com'
+p129
+sVPharmacie Ya Oussalama
+p130
+g11
+sVPharmacie Maborough
+p131
+g13
+sVPharmacie Candale
+p132
+g13
+sVPharmacie Du Centre Medical
+p133
+g13
+sVPharmacies Les Orchidées
+p134
+g13
+sVPharmacie Spartien
+p135
+g11
+sVPharmacie Durin
+p136
+g13
+sVPharmacie Tarquin-Devau
+p137
+g11
+sVPHARMACIE PERIN
+p138
+g11
+sVPharmacie D'Orléans
+p139
+g11
+sVPharmacie Corinne Rose
+p140
+g13
+sVPharmacie SPM
+p141
+g13
+sVPharmacie Du Clavier
+p142
+g13
+sVPharmacie du K'Nal
+p143
+S'www.pharmacieduknal.com'
+p144
+sVPascreau Filbert
+p145
+S'www.pharmacie-grosmorne.net'
+p146
+sVPharmacie Damencourt (Selarl)
+p147
+g11
+sVGatibelza Catherine
+p148
+g11
+sVPharmacie Vila Rémi
+p149
+g11
+sVPharmacie Du Centre
+p150
+S'www.pharmacieduclavier.pharminfo.fr'
+p151
+sVPharmacie Frébault
+p152
+g22
+sVLesca Frédéric
+p153
+g11
+sVPharmacie Petit
+p154
+g11
+sVPharmacie de Montjoly
+p155
+g11
+sVPharmacie Du Tamarinier
+p156
+g11
+sVPharmacie de L'Hôtel de Ville
+p157
+S'www.pharmaciedelabastide.fr'
+p158
+sVPharmacie Louis Joseph
+p159
+S'pharmaciecandale.pharminfo.fr'
+p160
+sVPharmacie La Meynard
+p161
+g13
+sVPharmacie Jubelin
+p162
+g11
+sVPharmacie Renard
+p163
+g13
+sVPharmacie Colibri
+p164
+g11
+sVPharmacie de Gustavia Saint-Barth
+p165
+g11
+sVPharmacie Djem Bebey
+p166
+g22
+sVPharmacie Arago 53
+p167
+S'www.pharmacie-st-esprit.com'
+p168
+sVPharmacie Marcin-Pompilius
+p169
+S'www.pharmaciecombe.pharminfo.fr'
+p170
+sVPharmacie De Didier
+p171
+g13
+sVPharmacie Sainte Anne
+p172
+g11
+sVPharmacie Deshaies
+p173
+g11
+sVMateriel Médical Lotaut
+p174
+g13
+sVFoucan François
+p175
+g11
+sVPharmacie du Centre
+p176
+g11
+sVPharmacie Alna
+p177
+g11
+sVPharmacie De Mtsapere
+p178
+S'www.pharmacielesmakis.pharminfo.fr'
+p179
+sVPharmacie Mont Lucas
+p180
+g11
+sVBravo Mikaël
+p181
+g13
+sVPharmacie Modmesaib
+p182
+g11
+sVPharmacie La Rose des Vents
+p183
+g13
+sVPharmacie Port Caraibes
+p184
+g11
+sVPharmacie du Carmel
+p185
+g11
+sVPharmacie Antonio
+p186
+g13
+sVPharmacie De Gissac
+p187
+g11
+sVPharmacie De Losteau
+p188
+g11
+sVPharmacie Alivon
+p189
+S'pharmaciecandale.pharminfo.fr'
+p190
+sVPharmacie Des Makis
+p191
+g11
+sVPharmacie Geoffroy Chabot
+p192
+S'www.pharmacievaldadour.com'
+p193
+sVPharmacie Eric Mathieu
+p194
+g13
+sVPharmacie Cap Santé
+p195
+g11
+sVPharmacie LEDY
+p196
+g11
+sVPharmacie LK
+p197
+g13
+sVPharmacie Pointe D'Or
+p198
+g11
+sVPharmacie De La Mairie
+p199
+g11
+sVPharmacie Copaver
+p200
+g11
+sVPharmacie Serre
+p201
+g13
+sVPharmacie Des Ames Claires
+p202
+g11
+sVPharmacie Du Mas
+p203
+S'www.pharmacie-damazan.com'
+p204
+sVPharmacie Des Tortues
+p205
+g11
+sVPharmacie Pointe Bacchus
+p206
+g11
+sVPharmacie de la Montagne
+p207
+g11
+sVPharmacie De La Galléria
+p208
+g13
+sVPharmacie Berthelot
+p209
+g22
+sVTafial Alex
+p210
+g11
+sVPharmacie Pasteur
+p211
+g13
+sVPharmacie Saminadin (Sarl)
+p212
+g11
+sVPharmacie Bellevue Saint Martin SARL
+p213
+g11
+sVPharmacie Ponsar
+p214
+g13
+sVPetit Philippe
+p215
+g13
+sVPharmacie Luce Juliette
+p216
+g11
+sVPharmacie Nolivos
+p217
+g11
+sVPharmacie Allard-François Nicole
+p218
+g11
+sVPharmacie La Rhumerie
+p219
+g11
+sVPharmacie Roux
+p220
+g13
+sVPharmacie Moderne Merlini et Poulin
+p221
+g13
+sVEtilé Lucilia
+p222
+g13
+sVPharmacie Eclat De Santé
+p223
+S'pharmacie-ducos.com'
+p224
+sVPharmacie Karibu
+p225
+g11
+sVPharmacie Arcade Marie-Andrée
+p226
+S'pharmaciecandale.pharminfo.fr'
+p227
+sVKancel Ketty
+p228
+g11
+sVPharmacie Jean-Bart Liliane
+p229
+S'http://www.pharmaciedelaeroport-lelamentin.fr'
+p230
+sVCarmentine (SELARL)
+p231
+g11
+sVPharmacie Du Baobab
+p232
+g82
+sVPharmacie du Stade (Danielle Dindaine)
+p233
+g11
+sVCadignan Florence
+p234
+g13
+sVPharmacie Paul Lacavé
+p235
+g11
+sVPharmacie Najjar
+p236
+g13
+sVPharmacie de l'Assainissement Jalet Régine
+p237
+g11
+sVMitrail Jocelyne
+p238
+S'www.pharmacie-cypria.fr'
+p239
+sVPharmacie du Golf
+p240
+g11
+sVPharmacie Maugée
+p241
+g13
+sVPharmacie Roussel
+p242
+g11
+sVPharmacie De Pamandzi
+p243
+g82
+sVPharmacie de Basse-Gondeau
+p244
+S'http://www.pharmacie-ducos.fr'
+p245
+sVPharmacie Tardif
+p246
+S'www.pharmaciecayenne.pharminfo.fr'
+p247
+sVPharmacie Hippocampe
+p248
+g11
+sVPharmacie Vergé-Dépré Evelyne
+p249
+g11
+sVPhamarcie Charles Elgea
+p250
+g13
+sVPharmacie Salomon
+p251
+g11
+sVPharmacie Du Port
+p252
+g11
+sVPharmacie Madec
+p253
+g13
+sVLa Baie Du Marin (Selarl)
+p254
+g13
+sVPharmacie Des Dauphins
+p255
+g82
+sVPharmacie Centrale
+p256
+S'www.pharmaciecombe.pharminfo.fr'
+p257
+sVPharmacie Rémy Maborough
+p258
+S'www.pharmacie-le-marin.net'
+p259
+sVPharmacie du Bourg
+p260
+g11
+sVPharmacie Du Balizier
+p261
+g13
+sVPharmacie du Stade
+p262
+S'www.pharmacie-schoelcher.com'
+p263
+sVPharmacie des Raisiniers
+p264
+g13
+sVPharmacie du Boulevard J Baudin
+p265
+S'http://www.pharmacie-marie-joseph.fr'
+p266
+sVPharmacie Gaillard Gina
+p267
+g13
+sVPharmacie Cadignan
+p268
+g13
+sVLouis Gladys
+p269
+g11
+sVPharmacie Lajoso
+p270
+g13
+sVSylvestre Georges
+p271
+g13
+sVSelas Des Ylangs
+p272
+g13
+sVPharmacie De Barbaste
+p273
+g13
+sVPharmacie Montout Pascal
+p274
+g11
+sVPharmacie Belo Sante
+p275
+g11
+sVPharmacie Siban
+p276
+g11
+sVPharmacie Du Marché
+p277
+g11
+sVPharmacie De Petite Terre
+p278
+g11
+sVPharmacie Sainte-Anne
+p279
+g13
+sVPharmacie Francois Fdm (Selarl)
+p280
+g11
+sVPharmacie Du Centre Chevry Nicolas
+p281
+g11
+sVPharmacie Badji
+p282
+g11
+sVPharmacie Manta
+p283
+g11
+sVPharmacie de Versailles
+p284
+S'www.pharmaciemedicis.fr'
+p285
+sVPharmacie Soualiga Estelle
+p286
+g11
+sVPharmacie Gustavia St Barth
+p287
+g11
+sVPharmacie du Soleil
+p288
+S'pharmaciecava.pharmattitude.fr'
+p289
+sVPharmacie du Boulevard
+p290
+g11
+sVPharmacie Du Lac Bleu
+p291
+g11
+sVPharmacie Neron
+p292
+g11
+sVPharmacie Bellevue Saint Martin (SELARL)
+p293
+g11
+sVDelta Edouard
+p294
+g11
+sVPharmacie Du Marigo (Selarl)
+p295
+S'www.phrantilles.com'
+p296
+sVPharmacie Camouilly Lodéon
+p297
+g13
+sVPharmacie De Sinnamary
+p298
+g11
+sVOnesta Malika
+p299
+g11
+sVPharmacie Lison Josiane
+p300
+g13
+sVFonrose Marie-Louise
+p301
+S'www.pharmacie-le-marin.net'
+p302
+sVPharmacie Soualiga
+p303
+g11
+sVClaude Péguy
+p304
+S'www.pharmacie-st-esprit.com'
+p305
+sVMailly Eric
+p306
+g11
+sVPharmacie Hamot
+p307
+g11
+sVPharmacie Olivia
+p308
+g13
+sVPharmacie du Belvédère
+p309
+g11
+sVPharmacie Girard Dugamin
+p310
+g11
+sVPharmacie De La Jaille
+p311
+S'http://www.pharmacie-vila-guadeloupe.fr'
+p312
+sVPharmacie Charpentier Giliane
+p313
+g13
+sVPharmacie Du Soleil
+p314
+S'www.pharmacieantonio.pharminfo.fr'
+p315
+sVPharmacie Bernos
+p316
+S'www.pharmaciedamencourt.e-monsite.com'
+p317
+sVPharmacie de Lamirande
+p318
+g11
+sVPHARMACIE DES ECOLES
+p319
+g13
+sVPharmacie De Convenance
+p320
+g11
+sVPharmacie Bourg De Rémire
+p321
+g11
+sVDurin Michel
+p322
+g13
+sVLeffet Théodore
+p323
+g11
+sVPharmacie Valère
+p324
+g13
+sVPharmacie Les Coraux Selar
+p325
+g13
+sVPharmacie Broussaud
+p326
+g11
+sVPharmacie Dudognon
+p327
+g13
+sVPharmacie Miquel
+p328
+g11
+sVPharmacie De La Rhumerie
+p329
+g11
+sVPharmacie Loe-Mie
+p330
+g11
+sVPharmacie Mathilde Clayssen
+p331
+g11
+sVPharmacie Du Lagon De Mayotte
+p332
+g11
+sVPharmacie De La Lagune
+p333
+S'pharmacie-centrale-marie-galante.pharminfo.fr'
+p334
+sVPharmacie Vila Rémi (SELEURL)
+p335
+g11
+sVPharmacie Foyalaise
+p336
+S'www.pharmacie-lerobert.com'
+p337
+sVPharmacie Beaubois-Boucard
+p338
+g11
+sVPHARMACIE LES BOUGAINVILLIERS
+p339
+g13
+sVMatériel Médical Guadeloupe
+p340
+g11
+sVPharmacie Pineau Geneviève
+p341
+g11
+sVPharmacie Colisson
+p342
+S'www.giropharm.fr'
+p343
+sVPharmacie Calmo Jany
+p344
+S'www.pharmaciedesalizes.fr'
+p345
+sVPharmacie Atoumo
+p346
+g13
+sVPharmacie Dorville
+p347
+S'http://www.pharmacie-belcourt-guadeloupe.fr'
+p348
+sVPharmacie Monan Zamy Eliane
+p349
+g13
+sVPharmacie des Alizés
+p350
+S'www.pharmacie-rondpoint.com'
+p351
+ssS'output_filename'
+p352
+S'new_pharmacie'
+p353
+sS'search_phrase'
+p354
+S'pharmacie'
+p355
+sS'proximite'
+p356
+S'0'
+p357
+s.

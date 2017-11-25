@@ -1,0 +1,6 @@
+This is a free sample of a few proxies. To receive the full list, subscribe now: https://kingproxies.com/plans
+207.154.231.212:8080
+67.205.149.230:8080
+52.57.114.54:80
+192.99.57.207:8080
+138.68.169.8:8080
