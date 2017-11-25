@@ -18,4 +18,5 @@ First I discovered that the search phrase + location inquiries could be passed a
 Part 2 - SOLUTION - After the extraction of the websites URLs from the pagesjaunes.fr was over the resulting .json file was passed to another Scrapy bot designed by me. The bot accessed each of the URLs provided and followed every link with the website's domain name searching for emails (expressions containing "@" symbol). Luckily, it turned out that it were only the e-mails that included  the "@" symbol. Each of the search hits was saved as a separate dictionary with the domain name as a key and e-mail as a value. Since it took pretty while for the Scrapy bot to accomplish this task I deployed it to a Scrapy Cloud (https://scrapinghub.com/scrapy-cloud), which I rented for 10 USD/month. The resulting .json file was processed by the third script which merged all the dictionaries in one with domain name as a key and all the corresponding e-mails as a value in the format of a list of strings. The same script prepared the .xlsx file to be provided to the client.
 
 RESULTS
+
 The client was completely satisfied with the my job and came back to me shortly with a similar task
