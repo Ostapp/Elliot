@@ -1,6 +1,7 @@
 # Elliot
 
 TASK DESCRIPTION
+
 part1) the client ordered me to scrape pagesjaunes.fr an online repository for French businesses. I had to perform search on that platform by using a predefined keyword and a list of locations. The search resulted in a list of the links to the businesses' profile pages in the repository. I had to access each of the profile pages to get an URL directing to the businesses' websites.
 
 part2) I had to go through every single website domain that I had extracted and extract all emails (expression containing '@' or 'mailto:')
